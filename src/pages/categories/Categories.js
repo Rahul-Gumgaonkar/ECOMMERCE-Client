@@ -50,8 +50,9 @@ function Categories() {
           <div className="info">
             <h2>Explore All Print and Artwork</h2>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ex
-              magni saepe labore neque reprehenderit.
+              High Quality Posters at best prices in India. Shop posters of
+              Movies, TV Shows, Game of Thrones, Harry Potter, Sherlock Holmes,
+              Stranger Things, Riverdale and many more...
             </p>
           </div>
           <div className="sort-by">

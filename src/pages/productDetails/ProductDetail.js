@@ -77,15 +77,15 @@ function ProductDetail() {
             <div className="return-policy">
               <ul>
                 <li>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Placeat cum alias amet expedita nemo animi aliquid nulla unde
-                  nostrum fuga.
+                  High Quality Posters at best prices in India. Shop posters of
+                  Movies, TV Shows, Game of Thrones, Harry Potter, Sherlock
+                  Holmes, Stranger Things, Riverdale and many more...
                 </li>
-                <li>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Dignissimos voluptatibus illum modi ipsum rerum maxime sit
-                  laudantium tempore odit eius?
-                </li>
+                {/* <li>
+                  High Quality Posters at best prices in India. Shop posters of
+                  Movies, TV Shows, Game of Thrones, Harry Potter, Sherlock
+                  Holmes, Stranger Things, Riverdale and many more...
+                </li> */}
               </ul>
             </div>
           </div>
