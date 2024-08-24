@@ -10,4 +10,4 @@ The **Home Page** of Posterz. serves as the central hub for all our categories a
 
 Below is a screenshot of the Home Page:
 
-![Home Page](../Ecommerce/HomePage.png)
+![Home Page](./Ecommerce/HomePage.png)
